@@ -1,1 +1,1 @@
-# BankingApplication
+The Banking Application is a Java-based console application that simulates the core functionalities of a banking system. It provides a user-friendly interface for managing bank accounts, performing transactions, and viewing account details. The application is built using object-oriented programming principles, ensuring modularity, extensibility, and code reusability.
